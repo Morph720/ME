@@ -1,7 +1,7 @@
 # ME
 🧠 Morph | Cybermind in Motion
 
-| 🖥️ Cybersecurity Hunter | 🎮 Gamer | 🤘 MetalheadElite performance. Tactical mindset. No excuses.
+🖥️ Cybersecurity Hunter | 🎮 Gamer | 🤘 Metalhead | Elite performance. Tactical mindset. No excuses.
 
 ⚔️ What I Do
 
