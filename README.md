@@ -1,7 +1,12 @@
 # ME
 🧠 Morph | Cybermind in Motion
 
-🖥️ Cybersecurity Hunter | 🎮 Gamer | 🤘 Metalhead | Elite performance. Tactical mindset. No excuses.
+ 🖥️ Cybersecurity Hunter 
+ 
+ Elite performance. Tactical mindset. No excuses.
+
+
+ 
 
 ⚔️ What I Do
 
@@ -13,11 +18,17 @@
 
 ⚙️ Building a system of discipline: mind, code, body
 
+
+
+
 🚀 Current Missions
 
 👨‍💻 Learning advanced pentesting & exploit writing
 
 🔐 Practicing CTFs & reporting bugs
+
+
+
 
 🧩 Skills & Tools
 
